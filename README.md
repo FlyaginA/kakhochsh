@@ -1,2 +1,2 @@
 # kakhochsh
-Panhkratovs Fast Algorithms
+Panhkratova Fast Algorithms
